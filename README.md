@@ -15,8 +15,8 @@ A lightweight Python desktop script that opens a graphical interface (GUI) allow
 ## How to Use
 ```bash
 # 1. Clone the repository
-git clone <YOUR_REPO_URL>
-cd <YOUR_REPO_NAME>
+git clone https://github.com/Modi-code/PDF-Slicer.git
+cd PDF-Slicer
 
 # 2. Install the required dependency
 pip install pypdf
