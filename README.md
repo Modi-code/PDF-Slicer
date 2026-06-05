@@ -22,4 +22,4 @@ cd PDF-Slicer
 pip install pypdf
 
 # 3. Run the application
-python Slicer.py
+python .idea\Slicer.py
