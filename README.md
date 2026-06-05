@@ -2,6 +2,8 @@
 
 A lightweight Python desktop script that opens a graphical interface (GUI) allowing users to select a PDF file and split it into individual, sequentially numbered single-page PDF files.
 
+<img width="463" height="347" alt="image" src="https://github.com/user-attachments/assets/65883b04-f7e1-48f9-b4ed-49447563b9e5" />
+
 ## Features
 * **No Hardcoded Paths:** Uses interactive `tkinter` file and directory dialogs.
 * **Safety Checks:** Automatically detects cancelled actions and handles missing folders.
